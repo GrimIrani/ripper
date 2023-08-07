@@ -1,2 +1,2 @@
 # ripper
-World's best download manager
+World's future best download manager
