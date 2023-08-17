@@ -8,6 +8,8 @@ https://github.com/soimort/you-get
 https://github.com/spaam/svtplay-dl
 https://aria2.github.io/
 https://github.com/yt-dlp/yt-dlp
+https://github.com/flyingrub/scdl
+https://github.com/iheanyi/bandcamp-dl
 https://github.com/mhogomchungu/safaribooks
 ```
 
